@@ -11,28 +11,28 @@
             "id": 2,
             "fullname": "ABC",
             "checkIn": false,
-            "checkInDate": 2246567890123,
+            "checkInDate": "2246567890123",
             "baggage": ""
         },
         {
             "id": 3,
             "fullname": "PQR",
             "checkIn": true,
-            "checkInDate": 1288567890123,
+            "checkInDate": "1288567890123",
             "baggage": ""
         },
         {
             "id": 4,
             "fullname": "XZY",
             "checkIn": false,
-            "checkInDate": 1567567890123,
+            "checkInDate": "1567567890123",
             "baggage": ""
         },
         {
             "id": 5,
             "fullname": "REX",
             "checkIn": true,
-            "checkInDate": 1999567890123,
+            "checkInDate": "1999567890123",
             "baggage": ""
         }
     ]
