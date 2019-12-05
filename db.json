@@ -4,63 +4,31 @@
             "id": 1,
             "fullname": "XYZ",
             "checkIn": true,
-            "children": [
-                {
-                    "name": "A",
-                    "age": 1
-                }
-            ]
+            "baggage": null
         },
         {
             "id": 2,
             "fullname": "ABC",
             "checkIn": false,
-            "children": [
-                {
-                    "name": "C",
-                    "age": 3
-                },
-                {
-                    "name": "D",
-                    "age": 4
-                }
-            ]
+            "baggage": null
         },
         {
             "id": 3,
             "fullname": "PQR",
             "checkIn": true,
-            "children": [
-                {
-                    "name": "E",
-                    "age": 1
-                }
-            ]
+            "baggage": null
         },
         {
             "id": 4,
             "fullname": "XZY",
             "checkIn": false,
-            "children": [
-                {
-                    "name": "Z",
-                    "age": 1
-                },
-                {
-                    "name": "L",
-                    "age": 4
-                },
-                {
-                    "name": "R",
-                    "age": 3
-                }
-            ]
+            "baggage": null
         },
         {
             "id": 5,
             "fullname": "REX",
             "checkIn": true,
-            "children": null
+            "baggage": null
         }
     ]
 }
