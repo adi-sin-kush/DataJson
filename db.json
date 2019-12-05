@@ -4,7 +4,7 @@
             "id": 1,
             "fullname": "XYZ",
             "checkIn": true,
-            "checkInDate": 1234567890123,
+            "checkInDate": "1234567890123",
             "baggage": ""
         },
         {
