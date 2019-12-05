@@ -4,31 +4,31 @@
             "id": 1,
             "fullname": "XYZ",
             "checkIn": true,
-            "baggage": null
+            "baggage": ""
         },
         {
             "id": 2,
             "fullname": "ABC",
             "checkIn": false,
-            "baggage": null
+            "baggage": ""
         },
         {
             "id": 3,
             "fullname": "PQR",
             "checkIn": true,
-            "baggage": null
+            "baggage": ""
         },
         {
             "id": 4,
             "fullname": "XZY",
             "checkIn": false,
-            "baggage": null
+            "baggage": ""
         },
         {
             "id": 5,
             "fullname": "REX",
             "checkIn": true,
-            "baggage": null
+            "baggage": ""
         }
     ]
 }
