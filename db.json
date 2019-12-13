@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "price": 3200,
+            "name": "MacBook Pro"
+        },
+        {
+            "id": 2,
+            "price": 4400,
+            "name": "Windows Crezz"
+        },
+        {
+            "id": 3,
+            "price": 1200,
+            "name": "Kimera Solo x"
+        },
+        {
+            "id": 4,
+            "price": 5200,
+            "name": "Chrome Book"
+        },
+        {
+            "id": 5,
+            "price": 6200,
+            "name": "Samsung phonepad"
+        }
+    ]
+}
