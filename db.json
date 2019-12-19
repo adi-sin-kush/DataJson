@@ -1,29 +1,39 @@
 {
-    "products": [
+    "messages": [
         {
             "id": 1,
-            "price": 3200,
-            "name": "MacBook Pro"
+            "folder": "inbox",
+            "from": "Jane Smith",
+            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
+            "timestamp": "1487848162905"
         },
         {
             "id": 2,
-            "price": 4400,
-            "name": "Windows Crezz"
+            "folder": "inbox",
+            "from": "leo mithy",
+            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
+            "timestamp": "1487848162905"
         },
         {
             "id": 3,
-            "price": 1200,
-            "name": "Kimera Solo x"
+            "folder": "trash",
+            "from": "Ryan krubo",
+            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
+            "timestamp": "1487848162905"
         },
         {
             "id": 4,
-            "price": 5200,
-            "name": "Chrome Book"
+            "folder": "trash",
+            "from": "Libonya Sin",
+            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
+            "timestamp": "1487848162905"
         },
         {
             "id": 5,
-            "price": 6200,
-            "name": "Samsung phonepad"
+            "folder": "inbox",
+            "from": "Vincent Valentine",
+            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
+            "timestamp": "1487848162905"
         }
     ]
 }
