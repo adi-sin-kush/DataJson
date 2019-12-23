@@ -1,39 +1,47 @@
 {
-    "messages": [
+    "playlist": [
         {
-            "id": 1,
-            "folder": "inbox",
-            "from": "Jane Smith",
-            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-            "timestamp": "1487848162905"
+            "Id": 1,
+            "Artist": "Akon",
+            "Track": "Right now",
+            "Listened": true,
+            "Favourite": true
         },
         {
-            "id": 2,
-            "folder": "inbox",
-            "from": "leo mithy",
-            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-            "timestamp": "1487848162905"
+            "Id": 2,
+            "Artist": "Akon",
+            "Track": "Smack that",
+            "Listened": true,
+            "Favourite": false
         },
         {
-            "id": 3,
-            "folder": "trash",
-            "from": "Ryan krubo",
-            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-            "timestamp": "1487848162905"
+            "Id": 3,
+            "Artist": "Linken Park",
+            "Track": "In the end",
+            "Listened": true,
+            "Favourite": true
         },
         {
-            "id": 4,
-            "folder": "trash",
-            "from": "Libonya Sin",
-            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-            "timestamp": "1487848162905"
+            "Id": 4,
+            "Artist": "Skip Marely",
+            "Track": "Lions",
+            "Listened": true,
+            "Favourite": true
         },
         {
-            "id": 5,
-            "folder": "inbox",
-            "from": "Vincent Valentine",
-            "summary": "Lorem ipsum dolor sit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-            "timestamp": "1487848162905"
+            "Id": 1,
+            "Artist": "Calvin Harris",
+            "Track": "Summers",
+            "Listened": true,
+            "Favourite": false
+        },
+        {
+            "Id": 1,
+            "Artist": "Katy Perry",
+            "Track": "Fireworks",
+            "Listened": true,
+            "Favourite": false
         }
+      
     ]
 }
